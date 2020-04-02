@@ -27,7 +27,7 @@
 #### Configuration file
 - application.properties (demo-app/src/main/resources/application.properties).
 
-## Usage
+## Instruction
 
 > Install Java 8
 
